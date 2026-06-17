@@ -16,7 +16,7 @@ The project covers the complete Machine Learning workflow:
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Try it now:** [Customer Churn Prediction]()
+**Try it now:** [Customer Churn Prediction](https://customer-churn-prediction-ita7aw9yczkojvrs9bxqke.streamlit.app)
 
 ---
 
