@@ -1,0 +1,16 @@
+#Data
+data/raw/*.csv
+data/downloaded/
+
+#Keep models and processed data
+!data/models/
+!data/processed/
+
+#Other
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+venv/
+.venv/
