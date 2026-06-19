@@ -262,6 +262,22 @@ with tab3:
     
     ---
     
+    ### Author
+    
+    **Eduardo Arriaga Alejandre**
+    
+    Telematics Engineer building data science and ML engineering skills.
+    
+    - [GitHub](https://github.com/PraetorClaudius)
+    - [LinkedIn](https://www.linkedin.com/in/eduardo-arriaga-230156295/)
+    
+    ### Project Repository
+    
+    Full source code, notebooks, and documentation available on GitHub:
+    https://github.com/PraetorClaudius/customer-churn-prediction
+    
+    ---
+    
     Built as portfolio project demonstrating classification ML workflow.
     """)
 
